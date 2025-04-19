@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\CS\\Database\\LibraryUn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21590FDC-D57B-498B-9281-A12CC5EED132}|LibraryUn\\LibraryUn.csproj|c:\\users\\ahmed\\onedrive\\desktop\\cs\\database\\libraryun\\libraryun\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21590FDC-D57B-498B-9281-A12CC5EED132}|LibraryUn\\LibraryUn.csproj|solutionrelative:libraryun\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21590FDC-D57B-498B-9281-A12CC5EED132}|LibraryUn\\LibraryUn.csproj|c:\\users\\ahmed\\onedrive\\desktop\\cs\\database\\libraryun\\libraryun\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21590FDC-D57B-498B-9281-A12CC5EED132}|LibraryUn\\LibraryUn.csproj|solutionrelative:libraryun\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21590FDC-D57B-498B-9281-A12CC5EED132}|LibraryUn\\LibraryUn.csproj|c:\\users\\ahmed\\onedrive\\desktop\\cs\\database\\libraryun\\libraryun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21590FDC-D57B-498B-9281-A12CC5EED132}|LibraryUn\\LibraryUn.csproj|solutionrelative:libraryun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\CS\\Database\\LibraryUn\\LibraryUn\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryUn\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\CS\\Database\\LibraryUn\\LibraryUn\\Program.cs",
+              "RelativeToolTip": "LibraryUn\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:26:39.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\CS\\Database\\LibraryUn\\LibraryUn\\Form1.cs",
+              "RelativeDocumentMoniker": "LibraryUn\\Form1.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\CS\\Database\\LibraryUn\\LibraryUn\\Form1.cs",
+              "RelativeToolTip": "LibraryUn\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:26:54.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\CS\\Database\\LibraryUn\\LibraryUn\\Form1.cs",
+              "RelativeDocumentMoniker": "LibraryUn\\Form1.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\CS\\Database\\LibraryUn\\LibraryUn\\Form1.cs [Design]",
+              "RelativeToolTip": "LibraryUn\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:20:25.83Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
